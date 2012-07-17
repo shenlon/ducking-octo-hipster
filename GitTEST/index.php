@@ -14,6 +14,7 @@ for ( $i = 0; $i < $count; $i++ )
         echo "{$i}.{$j} " . $i * $j . "<br/>";
     }
 }
+echoMessage('Szewka');
 
 function echoMessage($message)
 {
